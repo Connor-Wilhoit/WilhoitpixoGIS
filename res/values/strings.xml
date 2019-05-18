@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WilhoitpixoGIS</string>
+    <string name="title_activity_maps">Pixo Map</string>
+    <string name='google_maps_key'>ENTER YOUR API KEY HERE</string>
+</resources>
